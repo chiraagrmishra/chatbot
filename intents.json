@@ -1,0 +1,164 @@
+{
+    "intents": [
+        {
+            "tag": "general",
+            "patterns": [],
+            "responses": ["Please ask something related to KLE BCA College"]
+        },
+        {
+            "tag": "Admission_Procedure",
+            "patterns": ["What is the admission procedure at KLE BCA College?"],
+            "responses": ["At KLE BCA College, you can apply through our website. We accept students based on their academic merit and entrance exam scores. Please visit our admissions page for more details."]
+        },
+        {
+            "tag": "Fee_Structure",
+            "patterns": ["What is the fee structure at KLE BCA College?"],
+            "responses": ["You can find detailed information about the fees for various programs on our official website. Here is the link: [KLE BCA College Fees](https://klebca.ac.in/fees)"]
+        },
+        {
+            "tag": "Placement",
+            "patterns": ["What is the placement scenario at KLE BCA College?"],
+            "responses": ["KLE BCA College boasts a high placement rate with top companies visiting our campus annually. For more details, please check our placements page."]
+        },
+        {
+            "tag": "Hostel_Facility",
+            "patterns": ["Is there any hostel facility for Boys and Girls at KLE BCA College?"],
+            "responses": ["Yes, KLE BCA College offers hostel facilities for both boys and girls with modern amenities. For more information, visit our hostel facilities page."]
+        },
+        {
+            "tag": "College_Address",
+            "patterns": ["What is the address of KLE BCA College?"],
+            "responses": ["KLE BCA College is located at #1, College Road, Nagarbhavi, Bengaluru, Karnataka. Feel free to visit us!"]
+        },
+        {
+            "tag": "Course_Details",
+            "patterns": ["Can you tell me more about the BCA program?"],
+            "responses": ["The BCA program at KLE BCA College is designed to provide students with extensive knowledge in computer applications and software development. For more details, please visit our course page."]
+        },
+        {
+            "tag": "Faculty_Query",
+            "patterns": ["Who are the faculty members in the Computer Science department?"],
+            "responses": ["Our Computer Science department boasts a team of highly qualified faculty members dedicated to providing the best education and support to our students. For more details on individual faculty members, visit our faculty section."]
+        },
+        {
+            "tag": "Exam_Schedule",
+            "patterns": ["What is the exam schedule for this semester?"],
+            "responses": ["The exam schedule for the current semester can be found on our official website under the Examinations section. Please check there for the most up-to-date schedule."]
+        },
+        {
+            "tag": "Scholarship_Information",
+            "patterns": ["What scholarships are available for students?"],
+            "responses": ["KLE BCA College offers a variety of scholarships for students based on merit and financial need. Details about scholarships can be found on our scholarships page."]
+        },
+        {
+            "tag": "Student_Clubs",
+            "patterns": ["What student clubs can I join at KLE BCA College?"],
+            "responses": ["We have a range of student clubs at KLE BCA College, including tech clubs, sports clubs, cultural societies, and more. Visit our Student Life section to learn more about how you can get involved."]
+        },
+        {
+            "tag": "International_Students",
+            "patterns": ["What facilities are available for international students?"],
+            "responses": ["KLE BCA College offers comprehensive support for international students, including orientation, accommodation assistance, and a dedicated international student office. For more information, please visit our International Students section."]
+        },
+        {
+            "tag": "Library_Services",
+            "patterns": ["What are the library hours and services?"],
+            "responses": ["Our library is open from 8 AM to 8 PM on weekdays. We offer numerous services, including study spaces, book loans, research assistance, and access to digital resources."]
+        },
+        {
+            "tag": "IT_Support",
+            "patterns": ["How can I get IT support on campus?"],
+            "responses": ["IT support is available at the IT Services Desk in the main building. They can help with connectivity issues, software installations, and other tech-related inquiries."]
+        },
+        {
+            "tag": "Graduation_Requirements",
+            "patterns": ["What are the graduation requirements for BCA?"],
+            "responses": ["To graduate with a BCA degree, students must complete all core courses, electives, and a capstone project. Specific requirements can be found in the BCA program guide available on our website."]
+        },
+        {
+            "tag": "Campus_Safety",
+            "patterns": ["What measures are in place to ensure campus safety?"],
+            "responses": ["Campus safety is a top priority at KLE BCA College. We have 24/7 security personnel, CCTV surveillance, and emergency response protocols to ensure the safety of all students and staff."]
+        },
+        {
+            "tag": "Health_Services",
+            "patterns": ["What health services are available on campus?"],
+            "responses": ["KLE BCA College provides on-campus medical facilities with qualified medical staff available during college hours. We also have ties with local hospitals for emergency services."]
+        },
+        {
+            "tag": "Counseling_Services",
+            "patterns": ["Are there counseling services available for students?"],
+            "responses": ["Yes, our campus offers counseling services for students. These services are confidential and aim to support students through their academic and personal challenges."]
+        },
+        {
+            "tag": "Alumni_Network",
+            "patterns": ["How can I connect with alumni?"],
+            "responses": ["KLE BCA College has an active alumni network. You can connect with our alumni through our Alumni Association's events or online platforms. More information can be found on our alumni page."]
+        },
+        {
+            "tag": "Parking_Facilities",
+            "patterns": ["What parking facilities are available at the college?"],
+            "responses": ["We provide ample parking for students, faculty, and visitors. Specific areas are designated for different types of vehicles. Please refer to our campus map for more details."]
+        },
+        {
+            "tag": "Sports_Facilities",
+            "patterns": ["What sports facilities are available at KLE BCA College?"],
+            "responses": ["Our college offers a variety of sports facilities, including a gymnasium, basketball courts, a football field, and a cricket pitch. Students are encouraged to participate in various sports activities."]
+        },
+        {
+            "tag": "Student_Exchange_Programs",
+            "patterns": ["Does KLE BCA College offer student exchange programs?"],
+            "responses": ["Yes, we offer student exchange programs with several international universities. Students can apply for these programs through the International Office."]
+        },
+        {
+            "tag": "Career_Advising",
+            "patterns": ["Where can I get career advising?"],
+            "responses": ["Career advising is available through our Career Services Office. They provide guidance on career choices, job placements, and internships."]
+        },
+        {
+            "tag": "Graduate_Studies",
+            "patterns": ["Does KLE BCA College offer graduate programs?"],
+            "responses": ["Yes, KLE BCA College offers several graduate programs in different fields. You can check our website or contact the Graduate Studies Office for more information."]
+        },
+        {
+            "tag": "Campus_Tours",
+            "patterns": ["How can I schedule a campus tour?"],
+            "responses": ["Campus tours can be scheduled through our Admissions Office. Please contact them directly or use the booking form on our website."]
+        },
+        {
+            "tag": "Special_Events",
+            "patterns": ["What special events are coming up at KLE BCA College?"],
+            "responses": ["You can find information about upcoming events on our Events Calendar on the website. We host various academic, cultural, and sports events throughout the year."]
+        },
+        {
+            "tag": "Lecture_Series",
+            "patterns": ["Is there a lecture series I can attend?"],
+            "responses": ["KLE BCA College hosts various lecture series featuring esteemed guest speakers from various fields. Details can be found on our events page."]
+        },
+        {
+            "tag": "Student_Life",
+            "patterns": ["What can I expect from student life at KLE BCA College?"],
+            "responses": ["Student life at KLE BCA College is vibrant and engaging. We have numerous activities and clubs that you can join, alongside academic pursuits."]
+        },
+        {
+            "tag": "Dining_Options",
+            "patterns": ["What dining options are available on campus?"],
+            "responses": ["We have multiple dining options on campus, including cafeterias, coffee shops, and snack bars, offering a variety of food choices."]
+        },
+        {
+            "tag": "Online_Courses",
+            "patterns": ["Does KLE BCA College offer online courses?"],
+            "responses": ["Yes, we offer a range of online courses that can be accessed through our digital learning platform. These courses are designed to complement your on-campus learning."]
+        },
+        {
+            "tag": "Academic_Calendar",
+            "patterns": ["What is the academic calendar for this year?"],
+            "responses": ["Our academic calendar for the year can be found on our website. It includes all important dates, such as the start and end of semesters, holidays, and exam periods."]
+        },
+        {
+            "tag": "Technology_Support",
+            "patterns": ["What technology support services does the college offer?"],
+            "responses": ["Our Technology Support Center provides help with any technology-related issues you might encounter, including software, hardware, and connectivity problems."]
+        }
+    ]
+}
